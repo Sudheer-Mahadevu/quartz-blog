@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "35 చిన్న కథ కాదు – Lyrics.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "35 చిన్న కథ కాదు – Lyrics"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,8 +184,8 @@
   },
   "active": "9f73f7e4dcc9ae8c",
   "lastOpenFiles": [
-    "35 చిన్న కథ కాదు – Lyrics.md",
     "index.md",
+    "35 చిన్న కథ కాదు – Lyrics.md",
     "Untitled.base",
     "Untitled.canvas",
     "first.md"
