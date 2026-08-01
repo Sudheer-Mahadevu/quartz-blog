@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53f5cc55b2b9450a",
+        "id": "b4f4269213f31200",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e277574293c1d4",
+            "id": "9f73f7e4dcc9ae8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -176,11 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4e277574293c1d4",
+  "active": "9f73f7e4dcc9ae8c",
   "lastOpenFiles": [
+    "35 చిన్న కథ కాదు – Lyrics.md",
     "index.md",
     "Untitled.base",
-    "First note.md",
     "Untitled.canvas",
     "first.md"
   ]

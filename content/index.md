@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Contents
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+1. [[35 చిన్న కథ కాదు – Lyrics]]
